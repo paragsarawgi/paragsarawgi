@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parag</h1>
-<h3 align="center">| CS | AI/ML | WEB-DEV |</h3>
+<h3 align="center"> CS | AI/ML | WEB-DEV </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
