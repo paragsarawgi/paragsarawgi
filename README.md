@@ -19,5 +19,3 @@
 <br>
 <br>
 <br>
-
-<p align="center">i love music🎵, movies📽️ and moon🌕<p>
