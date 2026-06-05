@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Parag</h1>
-<h3 align="center"> AI/ML & Full-Stack developer  </h3>
+<h1 align="center">hi 👋, i'm parag</h1>
+<h3 align="center"> aspiring ai/ml & full-stack developer  </h3>
 <hr>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/paragsarawgi" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paragsarawgi" height="30" width="40" />
@@ -12,7 +12,7 @@
 </p>
 <hr>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">languages and tools:</h3>
 
 <p align="center">
 
