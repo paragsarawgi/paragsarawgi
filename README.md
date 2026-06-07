@@ -1,61 +1,35 @@
-<h1 align="center">hi 👋, i'm parag</h1>
-<h3 align="center"> aspiring ai/ml & full-stack developer  </h3>
-<hr>
-<h3 align="center">connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/paragsarawgi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paragsarawgi" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/paragsarawgi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paragsarawgi" height="30" width="40" />
-</a>
-</p>
-<hr>
-
-<h3 align="center">languages and tools:</h3>
+<h4 align="center">𝚑𝚒 👋, 𝚒'𝚖 𝚙𝚊𝚛𝚊𝚐</h4>
 
 <p align="center">
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-
-
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
+  <img src="https://media1.tenor.com/m/5A6K0cvPl_wAAAAd/spidyclown-clownspidy.gif" width="50" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paragsarawgi&" alt="paragsarawgi" />
+  <a href="https://linkedin.com/in/paragsarawgi" target="_blank">
+    <img src="https://img.shields.io/badge/𝚕𝚒𝚗𝚔𝚎𝚍𝚒𝚗-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://leetcode.com/paragsarawgi" target="_blank">
+    <img src="https://img.shields.io/badge/𝚕𝚎𝚎𝚝𝚌𝚘𝚍𝚎-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<p align="center" style="font-size: 12px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16" /> 𝚙𝚢𝚝𝚑𝚘𝚗
+  &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="16" /> 𝚌++
+  &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="16" /> 𝚖𝚘𝚗𝚐𝚘𝚍𝚋
+  &nbsp;|&nbsp;
+  <img src="https://cdn.simpleicons.org/express/ffffff" width="16" /> 𝚎𝚡𝚙𝚛𝚎𝚜𝚜
+  &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16" /> 𝚛𝚎𝚊𝚌𝚝
+  &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="16" /> 𝚗𝚘𝚍𝚎
+  &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="16" /> 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paragsarawgi&theme=dark&background=0a0a0f&border=ff6b35&stroke=ff6b35&ring=ff6b35&fire=ffcc00&currStreakNum=ffcc00&sideNums=ff6b35&currStreakLabel=ff6b35&sideLabels=c8a96e&dates=7a6a5a&font=VT323" alt="paragsarawgi" />
 </p>
